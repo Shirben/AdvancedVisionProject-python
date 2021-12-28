@@ -1,8 +1,8 @@
 # LiBRe-python
 
 # Environment
->python 3 \n
->torch 1.3.0+\n
+>python 3 //
+>torch 1.3.0+ //
 >torchvision 0.4.1+
 
 # Run demo
